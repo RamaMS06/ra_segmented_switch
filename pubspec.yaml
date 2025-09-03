@@ -11,9 +11,7 @@ topics:
   - widget
   - segmented-control
   - tabs
-  - navigation
   - material-design
-  - flutter-widget
 
 environment:
   sdk: ^3.5.3
