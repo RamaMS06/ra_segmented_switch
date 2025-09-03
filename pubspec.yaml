@@ -2,6 +2,18 @@ name: ra_segmented_switch
 description: "A beautiful, customizable segmented switch widget for Flutter with smooth animations and extensive customization options."
 version: 0.0.1
 homepage: https://github.com/RamaMS06/ra_segmented_switch
+repository: https://github.com/RamaMS06/ra_segmented_switch
+issue_tracker: https://github.com/RamaMS06/ra_segmented_switch/issues
+documentation: https://github.com/RamaMS06/ra_segmented_switch#readme
+
+topics:
+  - ui
+  - widget
+  - segmented-control
+  - tabs
+  - navigation
+  - material-design
+  - flutter-widget
 
 environment:
   sdk: ^3.5.3
