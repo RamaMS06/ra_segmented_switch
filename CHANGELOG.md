@@ -1,6 +1,6 @@
-## 0.0.1
+## 1.0.0
 
-* Initial release of RA Segmented Switch
+* Initial stable release of RA Segmented Switch
 * TabBar-based segmented switch with pill-style indicator
 * Support for multiple sizes (small, medium, large)
 * Icon support (left, right, and center positioning)
