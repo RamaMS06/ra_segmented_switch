@@ -2,12 +2,9 @@
 
 A highly customizable, animated segmented switch widget for Flutter applications. Built on top of Flutter's TabBar with a beautiful pill-style indicator, offering smooth animations, extensive theming options, and seamless integration with your app's design system.
 
-![RA Segmented Switch Preview](https://raw.githubusercontent.com/your-username/ra_segmented_switch/main/assets/example/evidence_ra_segmented.gif)
-
-[![pub package](https://img.shields.io/pub/v/ra_segmented_switch.svg)](https://pub.dev/packages/ra_segmented_switch)
-[![popularity](https://badges.bar/ra_segmented_switch/popularity)](https://pub.dev/packages/ra_segmented_switch/score)
-[![likes](https://badges.bar/ra_segmented_switch/likes)](https://pub.dev/packages/ra_segmented_switch/score)
-[![pub points](https://badges.bar/ra_segmented_switch/pub%20points)](https://pub.dev/packages/ra_segmented_switch/score)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RamaMS06/ra_segmented_switch/main/assets/example/evidence_ra_segmented.gif" alt="RA Segmented Switch Preview" width="300" height="600">
+</div>
 
 ## Table of Contents
 
@@ -617,7 +614,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ### Reporting Issues
 
-Please report issues on our [GitHub Issues](https://github.com/your-username/ra_segmented_switch/issues) page with:
+Please report issues on our [GitHub Issues](https://github.com/RamaMS06/ra_segmented_switch/issues) page with:
 
 - Flutter version
 - Device/platform information
@@ -646,8 +643,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 - **Documentation**: This README and inline code documentation
-- **Issues**: [GitHub Issues](https://github.com/your-username/ra_segmented_switch/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/ra_segmented_switch/discussions)
+- **Issues**: [GitHub Issues](https://github.com/RamaMS06/ra_segmented_switch/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/RamaMS06/ra_segmented_switch/discussions)
 
 ## Acknowledgments
 
